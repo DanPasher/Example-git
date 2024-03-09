@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.exe.config
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.exe
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.pdb
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.exe
+C:\Users\USUARIO\source\repos\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.pdb
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.exe.config
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.exe
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\bin\Debug\Encriptación y Desencriptación 1.0.pdb
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.exe
+C:\Users\APRENDIZ\Documents\Mucho texto\Encriptación y Desencriptación 1.0-20240226T233518Z-001\Encriptación y Desencriptación 1.0\Encriptación y Desencriptación 1.0\obj\Debug\Encriptación y Desencriptación 1.0.pdb
